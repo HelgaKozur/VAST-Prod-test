@@ -1,12 +1,29 @@
-HDM | D | KEY_Farmers Insurance Group_Digital Originals 19/20_Q4_2019_Q1-Q3_2020 (28)	
-https://admanager.google.com/36117602#delivery/order/order_overview/order_id=2639625515&tab=line_items	
-	
-	
-HDM | YouTube Pre-Roll (US) - YouTube Pre-Roll (1568)	https://rtr.innovid.com/r1.5df401b2e07f79.88098682;cb=%%CACHEBUSTER%%
-HDM | YouTube Pre-Roll (US) - YouTube Pre-Roll (1569)	https://rtr.innovid.com/r1.5df401b297c430.32404398;cb=%%CACHEBUSTER%%
-HDM | On-Site Pre-Roll (US) - Pre-Roll (1570)	https://rtr.innovid.com/r1.5e1f7d334f8e77.58491697;cb=%%CACHEBUSTER%%
-HDM | YouTube Pre-Roll (US) - YouTube Pre-Roll (1574)	https://rtr.innovid.com/r1.5df401b22702d5.58787498;cb=%%CACHEBUSTER%%
-HDM | On-Site Pre-Roll (US) - Pre-Roll (1566)	https://rtr.innovid.com/r1.5df401b1190796.94192660;cb=%%CACHEBUSTER%%
-HDM | On-Site Pre-Roll (US) - Pre-Roll (1567)	https://rtr.innovid.com/r1.5df401b1dc00d6.61237231;cb=%%CACHEBUSTER%%
-HDM | On-Site Pre-Roll (US) - Pre-Roll (1572)	https://rtr.innovid.com/r1.5e1f7e57ef1ea2.37801110;cb=%%CACHEBUSTER%%
-HDM | YouTube Pre-Roll (US) - YouTube Pre-Roll (1573)	https://rtr.innovid.com/r1.5df401b3335b37.45794874;cb=%%CACHEBUSTER%%
+<VAST version="2.0">
+<Ad id="1jq18d">
+<InLine>
+<AdSystem>Innovid Ads</AdSystem>
+<AdTitle>
+<![CDATA[
+FRM_FY20_NONINTVIDEO_MOTION_SAVED_BY_THE_BOLT_LITTLE_BURKE_PHASE2_15S_INNOVID_OG_URL_1800
+]]>
+</AdTitle>
+<Impression>
+<![CDATA[ about:blank ]]>
+</Impression>
+<Creatives>
+<Creative>
+<Linear>
+<Duration>00:00:15</Duration>
+<MediaFiles>
+<MediaFile delivery="progressive" width="16" height="9" type="application/javascript" apiFramework="VPAID">
+<![CDATA[
+https://s-static.innovid.com/mobileapps/s/js/vpaid/1jq18d?cb=54936823-92c9-2763-10e3-c3894c8d0cfa&deviceid=&ivc=
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
