@@ -1,4 +1,4 @@
-<VAST version="3.0">
+<VAST version="2.0">
 <Ad id="1jq18d">
 <InLine>
 <AdSystem>Innovid Ads</AdSystem>
@@ -11,7 +11,7 @@ FRM_FY20_NONINTVIDEO_MOTION_SAVED_BY_THE_BOLT_LITTLE_BURKE_PHASE2_15S_INNOVID_OG
 <![CDATA[ about:blank ]]>
 </Impression>
 <Creatives>
-<!-- <Creative> -->
+<Creative>
 <Linear>
 <Duration>00:00:15</Duration>
 <MediaFiles>
@@ -22,7 +22,7 @@ https://s-static.innovid.com/mobileapps/s/js/vpaid/1jq18d?cb=54936823-92c9-2763-
 </MediaFile>
 </MediaFiles>
 </Linear>
-<!-- </Creative> -->  
+</Creative>
 </Creatives> 
 </InLine>
 </Ad>
