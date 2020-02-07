@@ -1,6 +1,6 @@
 <VAST version="3.0">
-<!-- <Ad id="1jq18d"> -->
-<InLine>
+<Ad id="1jq18d">
+<!-- <InLine> -->
 <AdSystem>Innovid Ads</AdSystem>
 <AdTitle>
 <![CDATA[
@@ -24,6 +24,6 @@ https://s-static.innovid.com/mobileapps/s/js/vpaid/1jq18d?cb=54936823-92c9-2763-
 </Linear>
 </Creative>
 </Creatives>
-</InLine>
-<!-- </Ad> -->
+<!-- </InLine> -->
+</Ad>
 </VAST>
