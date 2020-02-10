@@ -17,7 +17,7 @@ FRM_FY20_NONINTVIDEO_MOTION_SAVED_BY_THE_BOLT_LITTLE_BURKE_PHASE2_15S_INNOVID_OG
 <MediaFiles> 
 <MediaFile delivery="progressive" width="16" height="9" type="application/javascript" apiFramework="VPAID">
 <![CDATA[
-http://s-static.innovid.com/mobileapps/s/js/vpaid/1jq18d?cb=54936823-92c9-2763-10e3-c3894c8d0cfa&deviceid=&ivc=
+https://s-static.innovid.com/mobileapps/s/js/vpaid/1jq18d?cb=54936823-92c9-2763-10e3-c3894c8d0cfa&deviceid=&ivc=
 ]]>
 </MediaFile>
 </MediaFiles>
