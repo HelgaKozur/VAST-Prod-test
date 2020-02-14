@@ -13,7 +13,7 @@ FRM_FY20_NONINTVIDEO_MOTION_SAVED_BY_THE_BOLT_LITTLE_BURKE_PHASE2_15S_INNOVID_OG
 <Creatives>
 <Creative>
 <Linear>
-<Duration>:15</Duration>
+<Duration></Duration>
 <MediaFiles> 
 <MediaFile delivery="progressive" width="16" height="9" type="application/javascript" apiFramework="VPAID">
 <![CDATA[
